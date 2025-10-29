@@ -1,0 +1,6 @@
+[2025-10-29 15:19:44] Starting ETL...
+[2025-10-29 15:19:44] Deduplicated: removed 0 duplicate row(s).
+[2025-10-29 15:19:44] ETL completed successfully. Rows written: 5.
+[2025-10-29 15:19:54] Starting ETL...
+[2025-10-29 15:19:54] Deduplicated: removed 0 duplicate row(s).
+[2025-10-29 15:19:54] ETL completed successfully. Rows written: 5.
